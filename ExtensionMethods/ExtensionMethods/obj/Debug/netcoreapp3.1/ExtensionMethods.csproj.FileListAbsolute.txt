@@ -1,0 +1,13 @@
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\Users\flipd\source\repos\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache

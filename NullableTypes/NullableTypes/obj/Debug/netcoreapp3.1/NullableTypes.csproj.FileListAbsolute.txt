@@ -1,0 +1,13 @@
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.exe
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.deps.json
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.json
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.runtimeconfig.dev.json
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\bin\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csprojAssemblyReference.cache
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.csproj.CoreCompileInputs.cache
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfoInputs.cache
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.AssemblyInfo.cs
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.dll
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.pdb
+C:\Users\flipd\source\repos\NullableTypes\NullableTypes\obj\Debug\netcoreapp3.1\NullableTypes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.exe
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.deps.json
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.runtimeconfig.json
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.runtimeconfig.dev.json
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.dll
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\bin\Debug\netcoreapp3.1\VideoEncoder.pdb
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.csprojAssemblyReference.cache
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.csproj.CoreCompileInputs.cache
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.AssemblyInfoInputs.cache
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.AssemblyInfo.cs
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.dll
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.pdb
+C:\Users\flipd\source\repos\VideoEncoder\VideoEncoder\obj\Debug\netcoreapp3.1\VideoEncoder.genruntimeconfig.cache

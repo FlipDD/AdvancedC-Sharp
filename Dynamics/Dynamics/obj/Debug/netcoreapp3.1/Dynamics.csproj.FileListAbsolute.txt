@@ -1,0 +1,13 @@
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.exe
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.deps.json
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.runtimeconfig.json
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.runtimeconfig.dev.json
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.dll
+C:\Users\flipd\source\repos\Dynamics\Dynamics\bin\Debug\netcoreapp3.1\Dynamics.pdb
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.csprojAssemblyReference.cache
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.AssemblyInfoInputs.cache
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.AssemblyInfo.cs
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.dll
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.pdb
+C:\Users\flipd\source\repos\Dynamics\Dynamics\obj\Debug\netcoreapp3.1\Dynamics.genruntimeconfig.cache
